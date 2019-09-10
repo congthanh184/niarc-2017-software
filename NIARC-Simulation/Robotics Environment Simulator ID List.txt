@@ -1,0 +1,25 @@
+Robot
+		ID: Starter Kit 2.0_R0
+				Sensor
+						ID: Sparkfun Atomic IMU_S0
+						ID: Sparkfun Atomic IMU_S1
+						ID: Hokuyo URG Series_S0
+				Joint
+						ID: Left Joint
+						ID: Right Joint
+						ID: Omni Joint
+						ID: Joint
+						ID: Joint_J0
+						ID: Joint_J1
+				Actuator
+						ID: Left Motor
+						ID: Right Motor
+						ID: Servo
+				Robot Component
+						ID: Body Frame
+						ID: Left Wheel
+						ID: Right Wheel
+						ID: Omni Wheel
+
+
+Obstacle
